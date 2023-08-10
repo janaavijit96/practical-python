@@ -1,2 +1,2 @@
 # practical-python
-Thish is my first Pythoncoding practice
+Thish is my first Python coding practice
